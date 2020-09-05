@@ -8,8 +8,8 @@ A WindowsGSM Plugin for Rising Storm 2: Vietnam its for all your war crime 🔥 
 
 ## Installation of Plugin 
 1. Download the [latest](https://github.com/s3nts/WindowsGSM.RS2/releases/latest) release
-1. Move **RS2.cs** folder to **plugins** folder
-1. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
+1. Extract the Zip file and move **RS2.cs** folder to **plugins** folder
+1. Click **[Reload Plugins]** button or restart WindowsGSM
 
 
 ## Note
