@@ -24,7 +24,7 @@ Rising Storm 2: Vietnam is not the most stable or the most controllable though W
 
 ✅ Player Limit
 
-✅ Start Map (default map in is vnte-cuchi)
+✅ Start Map (default map in this vnte-cuchi)
 
 ✅ Custom launch options (some might not work idk)
 
